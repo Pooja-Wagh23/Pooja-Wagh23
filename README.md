@@ -1,7 +1,18 @@
-- 👋 Hi, I’m Pooja Wagh a BE Computer engineering student at PES Modern College of Engineering,completing my degree with honours in Data Science and Visualization.
-- 👀 I’m interested in Web Developement, Designing, Data Base Management and Data Structures as well.
-- 🌱 I’m currently learning Php,C++ and Java programming along with Databases like Oracle and MySQL.
-- 📫 You can reach me using my Email ID: poojawagh.2352@gmail.com
+Name: Pooja Wagh | 
+Title: Web Developer and Database Manager | 
+Expertise: C programming and PHP.
+
+👋 Hi I'm Pooja Wagh, a passionate web developer and database manager with a strong focus on PHP development. I love crafting robust and efficient web solutions that deliver exceptional user experiences.
+
+💻 My areas of expertise include:
+- PHP development for dynamic web applications
+- Front-end technologies like HTML, CSS, and JavaScript
+- MySQL and database management
+- Languages Known: C,C++,Python and JavaScript.
+- Have worked with: XAMP,Apache, PyQT5, Oracle, MySQL,VScodes and Eclipse.
+- Additional Knowledge: Data Structures and Designing.
+  
+ 📫 You can reach me using my Email ID: poojawagh.2352@gmail.com
 
  
 
